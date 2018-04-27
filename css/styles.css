@@ -50,7 +50,7 @@ header div {
 	margin: 0px;
 	color: black;
 	font-size:40px;
-  background-color:  #F15A29;
+  background-color:  #e3e3e3;
   margin: 0px;
   text-align: center;
   padding-top: 39px;
@@ -82,4 +82,7 @@ transition: .5s ease;
 	margin: 0px;
 	border: none;
 	padding-right: 0px;
+}
+p {
+  font-family: 'Bellefair';font-size: 22px;
 }
