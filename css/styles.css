@@ -1,6 +1,6 @@
 header{
   background-image: url("../images/landing.jpg");
-  height:80vh ;
+  height:70vh ;
   background-repeat: no-repeat;
   width: 100%;
   text-align: center;
@@ -34,6 +34,7 @@ header div {
 	padding-left: 110px;
 	color: white;
 	font-size:40px;
+  font-family: 'Handlee';font-size: 22px;
 }
 .one {
   margin: auto;
@@ -43,6 +44,7 @@ header div {
   text-align: center;
   padding-top: 39px;
   padding-bottom: 39px;
+  font-family: 'Candal';font-size: 22px;
 }
 .two {
 	margin: 0px;
