@@ -101,3 +101,8 @@ h2 {
   width: 94%;
 
 }
+#meals {
+    background-image: url("../images/backgrounds/foodsBg.jpg");
+    height: 55vh;
+    width: 100%;
+}
