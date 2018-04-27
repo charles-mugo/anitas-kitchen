@@ -86,10 +86,19 @@ transition: .5s ease;
 p {
  font-family: 'Cormorant Infant';font-size: 22px;
  font-size: 18px;
+ text-align; left;
 }
 h4 {
   font-family: 'Cantora One';font-size: 22px;
 }
 h2 {
   font-family: 'Cantora One';font-size: 22px;
+}
+#picture2 {
+  background-color: #FEFEFE;
+  padding: 10px;
+  box-shadow: 0px 0px 40px 0px #AAA;
+  height: 60vh;
+  width: 94%;
+
 }
