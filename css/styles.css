@@ -1,0 +1,14 @@
+header{
+  background-image: url("../images/landing.jpg");
+  height:80vh ;
+  background-repeat: no-repeat;
+  width: 100%;
+  text-align: center;
+}
+header h1 {
+  color: white;
+  align-content: center;
+}
+header img{
+  align-items: flex-end;
+}
