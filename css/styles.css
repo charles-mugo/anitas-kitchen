@@ -5,10 +5,66 @@ header{
   width: 100%;
   text-align: center;
 }
-header h1 {
+h1 {
   color: white;
   align-content: center;
+  font-family: 'Handlee';font-size: 22px;
 }
 header img{
   align-items: flex-end;
+}
+#newfont {
+font-family: 'Candal';font-size: 22px;
+}
+header div {
+  position: relative;
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin: 6px 0;
+}
+.padding-0{
+	padding: 0px;
+	margin: 0px;
+	border: none;
+	padding-right: 0px;
+}
+.three {
+	padding-top: 90px;
+	padding-left: 110px;
+	color: white;
+	font-size:40px;
+}
+.one {
+  margin: auto;
+	color:black;
+	font-size:40px;
+  background-color:  #e3e3e3;
+  text-align: center;
+  padding-top: 39px;
+  padding-bottom: 39px;
+}
+.two {
+	margin: 0px;
+	color: black;
+	font-size:40px;
+  background-color:  #F15A29;
+  margin: 0px;
+  text-align: center;
+  padding-top: 39px;
+  padding-bottom: 39px;
+
+}
+.size {
+  border-right: 100px;
+}
+.ontop {
+position: absolute;
+bottom: 0;
+right: 0;
+background:rgba(0,0,0,0.0);
+overflow: hidden;
+width: 100%;
+height: 100%;
+transition: .5s ease;
 }
