@@ -106,3 +106,16 @@ h2 {
     height: 55vh;
     width: 100%;
 }
+.tmt button {
+text-align: center;
+background-color: inherit;
+    width:70%
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+.col-md-6: {
+  margin-left: 200px;
+}
