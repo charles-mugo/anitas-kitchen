@@ -84,5 +84,12 @@ transition: .5s ease;
 	padding-right: 0px;
 }
 p {
-  font-family: 'Bellefair';font-size: 22px;
+ font-family: 'Cormorant Infant';font-size: 22px;
+ font-size: 18px;
+}
+h4 {
+  font-family: 'Cantora One';font-size: 22px;
+}
+h2 {
+  font-family: 'Cantora One';font-size: 22px;
 }
