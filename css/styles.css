@@ -140,7 +140,7 @@ background-color: inherit;
   padding: 0px;
   padding-top: 16px;
   box-shadow: 0px 0px 40px 0px #AAA;
-  height: 54vh;
+  height: 74vh;
   width: 93%;
 }
 #container {
@@ -215,6 +215,9 @@ figcaption{
   text-align: center;
 }
 .last2 {
+  align-content: center;
+}
+.last1 {
   align-content: center;
 }
 form {
