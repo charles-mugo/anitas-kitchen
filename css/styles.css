@@ -207,7 +207,7 @@ figcaption{
   align-content: center;
 }
 .feedback {
-  background-image: url("../images/backgrounds/subscribe.jpg");
+  background-image: url("../images/subscribe.jpg");
   height: 35vh;
 }
 .feedback h2{
@@ -237,4 +237,32 @@ input {
     border: 1px solid #ccc;
     background-color: #f1f1f1;
     width: 200%;
+}
+fm {
+  text-align: center;
+}
+.mt button {
+text-align: center;
+background-color: inherit;
+    width:70%
+    float: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+
+.mt button:hover {
+    background-color: #ddd;
+}
+
+
+.mt button.active {
+    background-color: white;
+    color: #F15A29;
+}
+.feedback {
+  align-self: center;
 }
