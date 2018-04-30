@@ -68,6 +68,17 @@ width: 100%;
 height: 100%;
 transition: .5s ease;
 }
+.ontop:hover {
+position: absolute;
+bottom: 0;
+right: 0;
+background:rgba(250,250,250,0.5);
+overflow: hidden;
+width: 100%;
+height: 100%;
+transition: .5s ease;
+}
+
 .ontop2 {
 position: absolute;
 bottom: 0;
@@ -113,7 +124,7 @@ h2 {
   border-color: inherit;
 }
 
-.tmt button {
+.mt button {
 text-align: center;
 background-color: inherit;
     width:70%
@@ -178,4 +189,52 @@ figcaption{
   height: 30vh;
   margin-top: 6%;
   margin-bottom: 6%;
+}
+#footer {
+  background-color: #F15A29;
+  text-align: center;
+  height: 30vh;
+  padding-top: 35px;
+}
+#footer p{
+  color: white;
+}
+#footer h6{
+  color: white;
+  padding-top: 40px;
+}
+.feedback {
+  align-content: center;
+}
+.feedback {
+  background-image: url("../images/backgrounds/subscribe.jpg");
+  height: 35vh;
+}
+.feedback h2{
+  color: white;
+  text-align: center;
+}
+.last2 {
+  align-content: center;
+}
+form {
+  text-align: center;
+}
+.btn {
+  background-color: #F15A29;
+  display: block;
+  width: 200px;
+  text-align: center;
+  float:inherit;
+}
+input {
+  display: block;
+  width: 170px;
+  float: left;
+}
+.mt {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 200%;
 }
