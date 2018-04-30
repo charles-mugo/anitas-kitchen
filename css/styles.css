@@ -171,3 +171,11 @@ figcaption{
   color: #F15A29;
   text-align: center;
 }
+#picture3 {
+  background-color: #FEFEFE;
+  padding: 20px;
+  box-shadow: 0px 0px 40px 0px #AAA;
+  height: 30vh;
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
