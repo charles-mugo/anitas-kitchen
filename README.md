@@ -2,22 +2,22 @@
 
 https://charles-mugo.github.io/anitas-kitchen/
 
-#author: Charles Mugo 
+author: Charles Mugo 
 
-#Description
+Description
 
-I am a student at Moringa School, this is my second independent project. It is a simple webpage for Anitas Kitchen.
+-I am a student at Moringa School, this is my second independent project. It is a simple webpage for Anitas Kitchen.
 
-#project setup
+project setup
 
-I used atom for my code, I styled using css styles and bootstrap.
+-I used atom for my code, I styled using css styles and bootstrap.
 
-#live site on GitHub Pages
+live site on GitHub Pages
 
 
 https://charles-mugo.github.io/anitas-kitchen/
 
 
 
-#MIT LICENSE
+MIT LICENSE
 
